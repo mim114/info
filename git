@@ -1,6 +1,38 @@
-git config --global user.name "name"
-git config --global user.email "email"
-git config --list..........................просмотр настроик
-git init...................................создать репозиторий
-git status.................................просмотр статуса
-git add . .................................добавить в отслеживаемые
+# git                                       --> распредиленная система управления версиями
+# GitHub                                    --> хостинг для git
+# 
+# 1) working directory  2) staging area  3) repository 
+# untracked                                 --> неотслеживаемый.в рабочей директории
+# staged                                    --> подготовленный. добавлен в staging area
+# unmodified                                --> неизменённый.в рабочей директории и в репозитории один и тот-же фаил
+# modifide                                  --> в рабочей директории фаил отличается от репозитория
+
+# git --version                             --> версия git 
+# git config --global user.name mim         --> имя создателя commit
+# git config --global user.emile <email>    --> почта создателя commit
+# git config --global core.editor vim       --> задаём редактор для отображения истории commit
+# git config --list                         --> просмотр конфигураций
+# 
+# git init                                  --> создать новый репозиторий
+# git status -s                             --> посмотреть содержимое staging area 
+# git add <file_name>                       --> добавление в staging area 
+# git commin -m "comment"                   --> добавляем в репозиторий
+# git log                                   --> история изменений
+# git dif                                   --> посмотреть что изменилось
+# git checkout <hash 4 simbls>              --> перейти на конкретный commit
+#              <branch name>                --> перейти на ветку
+#              -b <name>                    --> создать и перейти в новую ветку 
+#              <name/HEAD^>                 --> передвинуть HEAD шаг назад
+#
+# git branch                                --> список всех веток
+#            -a                             --> втом числе и с GitHub
+# git branch <name>                         --> создать ветку
+# git branch -m <name>                      --> переименовать текущую ветку
+# git branch -d <name>                      --> удалить соседнюю ветку
+# git merge -m <comment> <name>             --> принять в себя ветку name
+# git rebase <name>                         --> создать копию перед name  
+# 
+# git remote add origin <url>               --> подключение к удалённому репозиторию
+# git push -u origin <url>                  --> загрузить обновления в GitHub
+# git pull -u origin <url>                  --> загрузить обновления из GitHub
+# git clon <url>                            --> загрузить репозитор 
