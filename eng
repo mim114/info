@@ -1,64 +1,67 @@
 
-	
-MAC media           !среда
-	access      доступ
-	control     контроль управление
-	
-Spoofing        подмена. маскировка под другого
+Spoofing            подмена. маскировка под другого
+attack              нападение
+router              маршрутизатор
+routing             маршрутизация
 
-attack          нападение
-
-router          маршрутизатор
-routing         маршрутизация
-
-DSLAM   digital     цифровой            передача i-пакетов по TV проводам
-	subscriber  подписчик/абонент
-	line        линия
-	access      доступ
-	multiplexer мультиплексор        много входов, один выход
-	  
-LAN local        местный
-	area         область
-	network      сеть
-	
-ISP internet     сеть ситей
-	service      оказание услуг
-	provider     поставщик
-	
+LAN     local       местный
+	area        область
+	network     сеть
+ISP     internet    сеть ситей
+	service     оказание услуг
+	provider    поставщик
 прикладной уровень
-HTTP hypertext   
+HTTP     hypertext   
 	 transfer    передача
 	 protocol 
-	 
-FTP  file
+FTP      file
 	 transfer
 	 protocol
-	 
-neat акуратный
-yell вопить
-brag хвастаться
-thin тонкий
-fry  жарить
-tax  налог
-wing крыло
-them их
-cave пещера
-cord шнур
-mat  коврик
-chen подбородок
-seek стремится
-meal приём пищи
-bite кусать
-fart пердеть
-decimal десятичный
-compare сравнивать
-bench скамья
-throw бросать
-merge сливаться
-rang звонил
-rarely редко
-sind раковина
-carpit ковровая дорожка
+neat                акуратный
+yell                вопить
+brag                хвастаться
+thin                тонкий
+fry                 жарить
+tax                 налог
+wing                крыло
+them                их
+cave                пещера
+cord                шнур
+mat                 коврик
+chen                подбородок
+seek                стремится
+meal                приём пищи
+bite                кусать
+fart                пердеть
+decimal             десятичный
+compare             сравнивать
+equal               равен
+bench               скамья
+throw               бросать
+merge               сливаться
+rang                звонил
+rarely              редко
+carpit              ковровая дорожка
+shell               ракушка
+kernel              ядро
+root                корень
+bim                 тусклый
+bright              яркий
+bold                смелый
+reverse             обратный
+blink               мигать
+target              цель
+development         развитее/разработка
+dump                свалка/сваливать
+path                путь
+destination         назначение
+source              источник
+variable            переменная
+assignment          назначение/присвоение
+declaration         объявление/заявление
+branch              ветвь
+loop                петля
+originally          родом
 
 ssh.....................secure shell
 api.....................application programming interface
@@ -67,5 +70,25 @@ ram.....................random-aceess memory
 gpu.....................graphics processing unit
 gui.....................graphical user interface
 cli.....................command-line interface
-ARP.....................address resolution protocol 	
-NIC.....................network interface card 
+arp.....................address resolution protocol 	
+nic.....................network interface card 
+mac.....................media access control       
+                        среда доступ контроль управление
+dslam...................digital subscriber line access multiplexer
+                        (передача i-пакетов по TV проводам)
+                        цифровой подписчик/абонент линия доступ мультиплексор
+                        (много входов, один выход)
+gcc.....................gnu c compiler
+gnu.....................gnu is not unix
+unix....................uniplexed information and computing service
+                        единый информационно-вычислительный сервис
+bash....................bourne again shell
+ascii...................american srandard code for information interchange
+                        американский стандартный код для обмена файлами
+
+	
+	        
+	      
+	         
+	    
+	
