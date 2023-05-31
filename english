@@ -62,6 +62,7 @@ declaration         объявление/заявление
 branch              ветвь
 loop                петля
 originally          родом
+gruvbox             почтовый ящик
 
 ssh.....................secure shell
 api.....................application programming interface
