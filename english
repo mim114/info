@@ -1,22 +1,3 @@
-
-Spoofing            подмена. маскировка под другого
-attack              нападение
-router              маршрутизатор
-routing             маршрутизация
-
-LAN     local       местный
-	area        область
-	network     сеть
-ISP     internet    сеть ситей
-	service     оказание услуг
-	provider    поставщик
-прикладной уровень
-HTTP     hypertext   
-	 transfer    передача
-	 protocol 
-FTP      file
-	 transfer
-	 protocol
 neat                акуратный
 yell                вопить
 brag                хвастаться
@@ -40,7 +21,15 @@ bench               скамья
 throw               бросать
 merge               сливаться
 rang                звонил
-rarely              редко
+ever                когдани-будь
+never               0% никогда
+hardlyever          1% врядли   
+rarely              15% редко
+seldom              15% редко (литературное употребление)
+sometimes           50% иногда
+often               70% часто
+usualy              90% обычно
+always              100% всегда
 carpit              ковровая дорожка
 shell               ракушка
 kernel              ядро
@@ -63,6 +52,120 @@ branch              ветвь
 loop                петля
 originally          родом
 gruvbox             почтовый ящик
+job                 работа сущ.
+work                работа гл.
+noun                существительное
+verd                глагол
+salary              зарплата фиксированная
+wages               зарплата за выработку
+employer            работодатель
+employee            работник
+unemployed          безработный
+offer               предложение
+superiors           начальство
+subordinates        подчинённые
+boss                начальник
+chief               приставка к должности
+head of             глава отдела
+profit              прибыль
+loss                потеря/убыток
+environment         окружающая среда
+basis               основа/основание
+bases               основы -ии
+fright(фрайт)       испуг
+frighten            пугать
+frightened          испуганный
+fear                страх
+afraid              боящийся не сильно
+scare               боящийся (по детски/насмешливо)
+insert              вставить
+then                тогда
+grow old            стареть
+hug                 обнимать
+gave                давать  
+basement            подвал/фундамент
+workshop            мастерская
+backyard            задний двор
+got out of          вышел из
+generosity          щедрость
+proper              надлежащий/правельный
+common              общий/распрастроннёный
+radiates            излучать
+copper              медь
+tin                 олово
+roof                крыша
+leaf                лист
+handkerchief        платок
+scales              весы
+trousers            брюки
+scissors сизорс     ножници
+twilight            сумерки
+clock               непереносимые часы
+whatch              переносимые часы
+sled                сани
+case                дело/случай
+cane                трость элегантная/тростник
+walking stick       трость для ходьбы
+definite            определённый
+indefinite          неопределённый
+fond                испытывать тёплое чувство к чему-то
+paddle              весло
+pebble              камешек/галька
+launch              запуск
+shame               стыд/позор
+pity                жаль/жалость
+whisper             шёпот
+permission          разрешение
+notice              заметить
+heart               сердце
+debt                долг
+fault               вина
+deck                палуба
+sight               взгляд
+side                сторона
+by chance           случайно
+chase               преследовать
+absense             отсутствие
+absent              отсутствовать
+additional          дополнительный
+admit               признавать/допускать
+chest               грудь
+stomach             желудок
+abdoment            брюшная поласть
+spine спайн         позвоночник
+Spian спейн         Испания
+spin                вращение вокруг своей оси
+rotat               вращаться вокруг какой-то точки
+waist               талия
+hip                 бедро
+wrist               запястье
+palm                ладонь
+thumb фам           большой палец
+heel                пятка
+toes                палец ноги
+forehead            лоб
+eyebrow             бровь
+eyelashes           ресници
+tongue танг         язык
+bangs               чёлка(fringe)
+beard биирд         борода
+mustache            усы
+muscle масл         мышца/мускул
+lung                легкое
+
+
+    adjective       прилогательное
+stubborn            упрямый
+generous            щедрый
+beautiful           красивая
+handsome            красивый
+ugly                уродливый
+kind                добрый
+evil                злой
+angry               сердитый
+bad                 плохой
+good                хороший
+
 
 ssh.....................secure shell
 api.....................application programming interface
@@ -86,10 +189,3 @@ unix....................uniplexed information and computing service
 bash....................bourne again shell
 ascii...................american srandard code for information interchange
                         американский стандартный код для обмена файлами
-
-	
-	        
-	      
-	         
-	    
-	
