@@ -173,6 +173,115 @@ barn                сарай/амбар
 apartment           квартира
 elevator            лифт
 trap                ловушка
+tap                 кран
+hallway             прихожая/коридор
+stairs стээрс       лесница/ступеньки
+attic               чердак
+ceiling             потолок
+windowsill          подокойник
+curtain кётн        занавеска/штора
+luggage             багаж
+couch кауч          диван/кушетка
+vacuum cleaner      пылесос
+plug                подключить/вилка
+socket/outlet       розетка
+pear пээр           груша
+tangerine тэнджерин мандарин
+pineapple           ананас
+persimmon           хурма
+pomegranate         гранат
+melon               дыня
+currant кёрэнт      смородина
+strawberry стробери клубника
+cranberry           клюква
+gooseberry          кружовник
+blackberry          ежевика
+blueberry           черника/голубика
+beet                свёкла
+garlic              чеснок
+corn                кукуруза
+peas                горох
+beans               фасоль/бобы
+celery              сельдерей
+eggplant            баклажан
+spinach спинитч     шпинат
+dill                укроп
+coconut коуканат    кокос
+clue  клуус         подсказка
+puppy               щенок
+guinea pig гини     морская свинка
+useless             бесполезный
+stood               стоял
+flew                летел
+scream              кричать
+ate                 ели
+scratch             царапина
+pick                выбирать
+invite              приглашать
+crowd               толпа
+crowded             переполнен
+hop                 прыгать на одной ноге
+among               среди
+clap                хлопать
+juggle              жанглировать
+bounce              отскакивать
+dig                 копать
+fold                сложить
+mop                 швабра
+comb коум           расчёска/расчёсывать
+sneeze              чехать
+wipe вайп           протерать/вытерать
+yawn                зевать
+pour                наливать
+sweep               мести
+wave                волна
+rake                грабли
+sew соу             шить
+skip                скакать
+allow               позволять
+anniversary         годовщина                    энивесери
+announcement        объявление                   энаунсемент
+appear эпиэ         казаться
+argue аргю          спорить
+arrive              прибывать
+attend              посещать/присутствовать
+avoid               избегать
+award               награда
+most                большенство
+native              родной/коренной/местный
+at all              вообще
+taught тоот         учил
+reduction           сокращение
+curly               вьющийся/кудрявый
+shout               кричать
+bowl                чаша
+upstairs            наверху
+necklace неклес     ожерелие
+fairy               фея/сказка
+wand вонд           палочка
+footman             лакей
+coachman            кучер
+put on              надеть
+paw                 лапа
+steer               управлять
+whoosh              свист
+peeping             подсматривать
+tame                приручать/ручной
+defind              вызов
+punishment          наказание
+reinforcement       подкрепление/уселение
+vehicle виикл       транспортное средство
+preset              предустановленный
+scalable            масштабирывание
+quality             качество
+raytracing          трассировка лучей
+scope               масштаб
+recent              последний/недавний
+browse              просматривать
+current             нынешний/текущий
+synk синк           синхронизация
+
+
 
     adjective       прилогательное
 stubborn            упрямый
@@ -185,6 +294,11 @@ evil                злой
 angry               сердитый
 bad                 плохой
 good                хороший
+
+a.                  э  cat
+e.                  э  bed
+a.e                 эй table
+ai.                 ээ chair
 
 
 ssh.....................secure shell
@@ -208,4 +322,4 @@ unix....................uniplexed information and computing service
                         единый информационно-вычислительный сервис
 bash....................bourne again shell
 ascii...................american srandard code for information interchange
-                        американский стандартный код для обмена файлами
+                        iiiiамериканский стандартный код для обмена файлами
